@@ -71,3 +71,6 @@ python train.py
 [3] https://github.com/chineseocr/chinese-ocr
 
 [4] https://github.com/xiaomaxiao/keras_ocr
+
+## 专利查询系统 
+[专利检索及分析](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml)
